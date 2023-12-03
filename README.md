@@ -22,7 +22,7 @@ The following unlearning methods are evaluated in the notebook:
 7. Contrastive Fine-tuning (2nd place in the Kaggle competition): [refer to this Kaggle discussion post](https://www.kaggle.com/code/fanchuan/2nd-place-machine-unlearning-solution)
 
 ## Evaluation Procedure
-The code for the scoring function was adopted from here: [https://www.kaggle.com/code/mgorinova/machine-unlearning-evaluation-on-cifar-10](https://www.kaggle.com/code/mgorinova/machine-unlearning-evaluation-on-cifar-10).
+The code for the scoring function was adopted from [Maria Gorinova's Kaggle post](https://www.kaggle.com/code/mgorinova/machine-unlearning-evaluation-on-cifar-10).
 
 ## Results
 
