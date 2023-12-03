@@ -18,8 +18,11 @@ The following unlearning methods are evaluated in the notebook:
 3. Selective Synaptic Dampening (SSD)
 4. Gradient-Informed Synaptic Adjustment (GISA) -- main contribution of the project!
 5. Competent/Incompetent Teachers
-6. Competent/Incompetent Teachers with Similarity-based Sampling
-7. Contrastive Fine-tuning (2nd place in the Kaggle competition).
+6. Competent/Incompetent Teachers with Similarity-based Sampling: [refer to this Kaggle discussion post](https://www.kaggle.com/competitions/neurips-2023-machine-unlearning/discussion/458648)
+7. Contrastive Fine-tuning (2nd place in the Kaggle competition): [refer to this Kaggle discussion post](https://www.kaggle.com/code/fanchuan/2nd-place-machine-unlearning-solution)
+
+## Evaluation Procedure
+The code for the scoring function was adopted from here: [https://www.kaggle.com/code/mgorinova/machine-unlearning-evaluation-on-cifar-10](https://www.kaggle.com/code/mgorinova/machine-unlearning-evaluation-on-cifar-10).
 
 ## Results
 
